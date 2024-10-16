@@ -1,7 +1,7 @@
 {
   "name": "gulp",
   "version": "1.0.0",
-  "description": "Gulp start files & logic",
+  "description": "mycv | my webiste",
   "main": "index.js",
   "scripts": {
     "start": "npm i"
