@@ -1,10 +1,11 @@
 {
-  "name": "gulp",
+  "name": "mycv",
   "version": "1.0.0",
-  "description": "mycv | my webiste",
+  "description": "My personal webiste based on my cv and projects I have created.",
   "main": "index.js",
   "scripts": {
-    "start": "npm i"
+    "start": "npm i",
+    "watch": "sass public/Jormungandr/styles/main.scss public/css/main.css"
   },
   "keywords": [],
   "author": "Jormungandr",
@@ -23,7 +24,6 @@
     "gulp-terser": "^2.1.0",
     "sass": "^1.72.0"
   },
-  "type": "module",
   "babel": {
     "presets": [
       [
